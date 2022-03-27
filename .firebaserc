@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "calculator-f1200": {
+      "hosting": {
+        "calculator": [
+          "calculator-f1200"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "calculator-f1200"
+  }
+}
